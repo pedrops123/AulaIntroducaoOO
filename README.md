@@ -1,2 +1,2 @@
-# AulaIntroducaoOO
-Repositorio para exercicios do curso C# parte 2: Introdução à Orientação a Objetos
+AMOSTRA DE EXERCICIOS AULA ALURA - Introducao a orientação a objetos
+Amostras de exercicios e notas explicativos feitos em aula para absorção do conteudo.
