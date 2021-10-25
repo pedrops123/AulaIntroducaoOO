@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_0_Introducao</RootNamespace>
+    <RootNamespace>_03_TipoReferenciaEValor</RootNamespace>
   </PropertyGroup>
 
 </Project>
